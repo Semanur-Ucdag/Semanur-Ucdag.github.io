@@ -4,4 +4,7 @@
 
 👋🏻Merhaba!, Bu projede "REACT.js ve axios kullanarak JSON'dan canlı veri nasıl alınır?" Anlattım aşağıdaki linkten daha detaylı inceleyebilirsiniz
 
+just click the link below and find out
+
+
 https://semanur-ucdag.github.io 
